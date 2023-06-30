@@ -1,0 +1,17 @@
+* {
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to bottom, rgb(199, 232, 230), rgb(246, 243, 243)); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.home {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.recipe-list {
+    font-size: 20px;
+}
