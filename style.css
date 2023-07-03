@@ -6,20 +6,23 @@
     background-attachment: fixed;
 }
 
+body {
+    padding-left: 1%;
+}
+
 .home {
     text-align: center;
     font-size: 50px;
     font-weight: 700;
-    text-shadow: 0px 0px 5px rgb(56, 62, 231), 0px -5px 5px rgb(75, 168, 226);
 }
 
 .recipe-list {
     font-size: 20px;
 }
 
-:visited{
-    color: violet;
+:link {
+    color: blue;
 }
-:active{
-    color:brown;
+:visited{
+    color: purple;
 }
