@@ -5,21 +5,17 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-
 body {
     padding-left: 1%;
 }
-
 .home {
     text-align: center;
     font-size: 50px;
     font-weight: 700;
 }
-
 .recipe-list {
     font-size: 20px;
 }
-
 :link {
     color: blue;
 }
